@@ -4,4 +4,4 @@
 *Next step that i am going to do is to commit these changes and then push them to cloud.
 *not working for me.
 Trying one more time
-Now I am editing code from the git hub' and trying to syn it to the local copy. its also called "pull" in GitHub language.
+Now I am editing code from the git hub' and trying to sync it with the local copy. Its also called "pull" in GitHub language.
